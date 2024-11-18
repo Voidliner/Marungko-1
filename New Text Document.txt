@@ -1,0 +1,5 @@
+const bg_1 = document.createElement("div");
+bg_1.innerHTML = "hello";
+bg_1.style.backgroundColor = "gray";
+bg_1.style.width = "100%";
+bg_1.style.height = "50px";
